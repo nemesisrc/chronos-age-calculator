@@ -1,0 +1,8 @@
+{
+  "name": "Chronos Age & Milestone Calculator",
+  "description": "Precision chronological age calculator, age gap comparison, profile saving, date comparison web app powered by FastAPI backend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
